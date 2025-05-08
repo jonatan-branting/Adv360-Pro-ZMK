@@ -215,6 +215,7 @@
     bindings = <&kp LG(LS(X))>;
     display-name = "Mac Strikethrough Text";
   };
+
   Double_Click: Double_Click {
     compatible = "zmk,behavior-macro";
     #binding-cells = <0>;
